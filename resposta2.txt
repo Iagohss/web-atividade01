@@ -1,0 +1,12 @@
+TypeScript 
+  - O TypeScript surgiu como uma evolução do JavaScript adicinando a tipagem estática à linguagem. permitindo que
+  erros de tipo sejam percebidos em tempo de compilação, permitindo um ritmo de desenvolvimento e correção de bugs mais ágil e seguro.
+
+React
+  - O react é uma biblioteca para o JavaScript que permite o desenvolvimento de interfaces para páginas web, ajudando no desenvolvimento front-end.
+  Essa biblioteca permite que o desenvolvedor desenvolva componentes para sua páginas. Agilizando o processo de esenvolvimento, além de exigir 
+  menos conhecimento sobre os detalhes envolvendo DOM e manipulação de objetos que seriam necessários para criar componente apenas utilizando JavaScript.
+
+Node.js
+  - Node.js é ambiente de execução de JavaScript fora do navegador web. Essa tecnolgoia permite a criação de APIs eficientes em aplicações em 
+  tempo real de maneira fácil e prática.

@@ -1,0 +1,7 @@
+  Versionamento de código é o processo de gerenciar mudanças no código-fonte ao longo do
+tempo, garantindo o histórico e rastreabilidade. 
+
+  Com a possibilidade da criação de branchs e o histórico de versões já desenvolvidas, ferramentas 
+como GIT permitem que múltiplos desenvolvedores trabalhem em paralelo, cada um em sua branch, 
+além de facilitar o controle de cada versão desenvolvida e diminuir o número de conflitos de código 
+durante o desenvolvimento.

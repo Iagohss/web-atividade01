@@ -1,0 +1,6 @@
+  JavaScript é uma linguagem de programação de alto nível, leve e baseada em eventos,
+usada principalmente para adicionar interatividade em páginas web. Por ela poder se interpretada no navegador, 
+ela se torna amplamente utuilizada no desenvolvimento de páginas web.
+
+  Por meio da criação de promisses e eventos ela permite que o desenvolvedor possa responder as ações do 
+usuário de maneira assíncrona. Assim, permitindo a interação entre a página web e o usuário.
