@@ -1,0 +1,8 @@
+  O surgimento do HTML e da World Wide Web (WWW) foi fundamental para a evolução da internet, 
+transformando o compartilhamento de informações globalmente. Criada por Tim Berners-Lee em 1989, 
+a WWW permitiu a interconexão de documentos via hipertexto, democratizando o acesso e a 
+publicação online. O HTML estruturou o conteúdo, melhorando a experiência do usuário e promovendo 
+a diversidade de informações. Essa evolução levou à globalização do conhecimento e à criação de 
+plataformas interativas na Web 2.0, formando comunidades globais. Tecnologias como CSS e JavaScript 
+também possibilitaram o desenvolvimento de sites dinâmicos, consolidando a internet como uma plataforma 
+colaborativa.

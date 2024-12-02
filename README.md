@@ -1,7 +1,9 @@
 Título: Simulação de Páginas Web Iniciais.
-● Descrição: Projeto que simula um site inicial com links para arquivos
+
+Descrição: Projeto que simula um site inicial com links para arquivos
 de texto contendo respostas a perguntas teóricas.
-● Instruções: 
+
+Instruções: 
 
 1. Localize o arquivo index.html:
   - Encontre o arquivo no local onde você o salvou.

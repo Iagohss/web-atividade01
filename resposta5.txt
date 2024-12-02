@@ -1,0 +1,8 @@
+  Minha abordagem inicial seria definir o escopo e requisitos do projeto, 
+e dividindo responsabilidades com minha dupla, considerando suas preferências e potencialidades. 
+
+  Com base nas experiências de cada um, escolheríamos tecnologias adequadas que já estivermos habituados 
+para o frontend (React, Angular), backend (Node.js, NestJS) e um banco de dados (MySQL, MongoDB, PostgreSQL). 
+
+  Para boas práticas, usaríamos Git para versionamento, criando branches para cada funcionalidade 
+e revisando o código via pull requests. 
